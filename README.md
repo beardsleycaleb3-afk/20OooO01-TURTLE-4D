@@ -6,7 +6,7 @@
 🟢 14:4 TURTLE NODE
 (Tesser-Node Seed)
 
-📊 LINEAR BINARY RAIL:
+📊 LINEAR BINARY RAIL: // 👻
 
 Peak: FFFF  
 ← 56:16 register saturation
